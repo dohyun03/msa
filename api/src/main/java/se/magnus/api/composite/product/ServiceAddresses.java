@@ -1,10 +1,10 @@
 package se.magnus.api.composite.product;
 
 public class ServiceAddresses {
-  private final String cmp;
-  private final String pro;
-  private final String rev;
-  private final String rec;
+  private String cmp;
+  private String pro;
+  private String rev;
+  private String rec;
 
   public ServiceAddresses() {
     cmp = null;
