@@ -36,3 +36,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Auth0 secrets ###
+auth0/env.bash
+auth0/tenant-env.bash
